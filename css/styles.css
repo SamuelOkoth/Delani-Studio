@@ -47,12 +47,12 @@
 }
 
 .hide, .hide2, .hide3 {
-  display:/* NOTE:  */;
+  display:none;
 }
 
 #about {
   margin-top: 50px;
-  margin-bottom: 50px;
+  margin-bottom: 150px;
 }
 
 .col-md-12 {
