@@ -12,6 +12,10 @@
   padding: 0;
 }
 
+.ptag{
+  display: none;
+}
+
 #first {
   padding-top: 14%;
   margin-bottom: 9%;
