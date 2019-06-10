@@ -9,7 +9,7 @@
 * {
   box-sizing: border-box;
   margin: 0;
-  padding: 10;
+  padding: 0;
 }
 
 #first {
@@ -28,7 +28,7 @@
 
 #service {
   background-image: url('../IP3/assets/backgrounds/s_image.jpg');
-  color: #fff;
+  color: #ffffff;
   margin-bottom: 50px;
   background-position: center;
   padding-top: 120px;
