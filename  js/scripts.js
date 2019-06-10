@@ -1,8 +1,16 @@
-$(document).ready(function() {
-  $(".img-fluid").click(function() {
-    $(".img-fluid").toggle();
-    $('.hide').toggle();
-  });
+$(document).ready(function(){
+ $('#main').click(function(){
+   $(".hide").fadeToggle(1000);
+   $(".img-fluid").fadeToggle(1000);
+ });
+ $('.col-md-4 main').click(function(){
+   $(.class="hide2").fadeToggle(1000);
+   $(.img-float").fadeToggle(1000);
+ });
+ $('.col-md-4 main').click(function(){
+   $(".hide3").fadeToggle(1000);
+   $(".img-sink").fadeToggle(1000);
+ });
 });
 $('.form-cont').submit(function(event) {
   var name = $('input#name').val();
