@@ -1,6 +1,6 @@
 {Delani Studio}
 
-#### {This is an application that has an approach that unifies design,development and product management to create exceptional products. We start each project by understanding your businessgoals}, {2019}
+#### {This is an application that has an approach that unifies design,development and product management to create exceptional products. We start each project by understanding your business goals}, {2019}
 
 #### By **{Samuel Okoth}**
 
