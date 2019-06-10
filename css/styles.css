@@ -27,7 +27,7 @@
 }
 
 #service {
-  background-image: url('../backgrounds/s_image.jpg');
+  background-image: url('backgrounds/s_image.jpg');
   color: #fff;
   margin-bottom: 50px;
   background-position: center;
