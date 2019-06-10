@@ -28,7 +28,7 @@
 
 #service {
   background-image: url('../IP3/assets/backgrounds/s_image.jpg');
-  color: #ffffff;
+  color: #fff;
   margin-bottom: 50px;
   background-position: center;
   padding-top: 120px;
@@ -39,7 +39,7 @@
   padding-top: 100px;
   margin-bottom: 50px;
   background-image: url('../IP3/assets/backgrounds/c_image.jpg');
-  background-size: cover;
+  background-size:contain;
   background-position: cover;
   width: 100%;
   max-width: 100%;
