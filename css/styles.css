@@ -79,7 +79,7 @@
   background: yellowgreen;
 }
 
-#portfolio img {
+#portfolio img:hover {
   width: 100%;
 }
 
