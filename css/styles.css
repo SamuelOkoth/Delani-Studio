@@ -39,7 +39,7 @@
   padding-top: 100px;
   margin-bottom: 50px;
   background-image: url('../IP3/assets/backgrounds/c_image.jpg');
-  background-size:contain;
+  background-size:cover;
   background-position: cover;
   width: 100%;
   max-width: 100%;
@@ -47,7 +47,7 @@
 }
 
 .hide, .hide2, .hide3 {
-  display: none;
+  display:/* NOTE:  */;
 }
 
 #about {
