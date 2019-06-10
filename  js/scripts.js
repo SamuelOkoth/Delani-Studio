@@ -1,6 +1,7 @@
 $(document).ready(function() {
   $(".img-fluid").click(function() {
-    $(".img-fluid").hide();
+    $(".img-fluid").toggle();
+    $('.hide').toggle();
   });
 });
 $('.form-cont').submit(function(event) {
