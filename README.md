@@ -4,6 +4,7 @@
 
 #### By **{Samuel Okoth}**
 
+
 ## Description
 
 This is an application that has an approach that unifies design,development and product management to create exceptional products. We start each project by understanding your business goals, the user's need and the product requirements Then we help translate them into effective and elegant solutions
