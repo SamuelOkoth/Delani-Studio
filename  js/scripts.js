@@ -5,7 +5,7 @@ $(document).ready(function(){
  });
  $('#TT').click(function(){
    $(.class="hide2").fadeToggle(1000);
-   $(.img-float").fadeToggle(1000);
+   $(".img-float").fadeToggle(1000);
  });
  $('#SS').click(function(){
    $(".hide3").fadeToggle(1000);
