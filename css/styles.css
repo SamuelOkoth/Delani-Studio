@@ -1,100 +1,144 @@
-#head {
-  background-image: url(' ../IP3/assets/backgrounds/h_img.jpg');
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+#iyo {
+  padding-top: 14%;
+  margin-bottom: 9%;
+}
+
+#ngwes {
+  margin:0;
+  background-image: url('/home/moringa/Desktop/Delani-studio/backgrounds/h_img.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   position: relative;
   height: 100%;
 }
 
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
 
-.ptag{
-  display: none;
-}
+#logo{
+  height:40%;
+  width:200px;
+      padding-top: 9%;
+      margin-bottom: 3%;
+      padding: 50px;
 
-#first {
-  padding-top: 14%;
-  margin-bottom: 9%;
-}
 
-#about,
-#service,
-#pipo,
-.specific,
-#contact,
-.footer p {
-  font-family: 'Merienda', cursive;
-}
+  }
+   .col-md-12 {
+      width: 100%;
+      color: #fff;
+      font-family: 'Boogaloo', cursive;
+      font-size: 1.1em;
+  }
+  p {
+      font-family: 'Bad Script', cursive;
+      font-weight: bolder;
+  }
+  #service {
+      background-image: url('/home/moringa/Desktop/Delani-studio/backgrounds/s_image.jpg');
+      color: #fff;
+      margin-bottom: 50px;
+      background-position: center;
+      padding-top: 120px;
+      padding-bottom: 80px;
+      height: 50%;
+  }
 
-#service {
-  background-image: url('backgrounds/s_image.jpg');
-  color: #fff;
-  margin-bottom: 50px;
-  background-position: center;
-  padding-top: 120px;
-  padding-bottom: 80px;
-}
+  .card-deck {
+      padding: 2% 4%;
+  }
+  #aboutus {
+      margin-top: 50px;
+      margin-bottom: 50px;
+  }
+  h1{
+      font-family: 'Monoton', cursive;
+  }
+  .sermain {
+      margin-top: 15%;
+  }
+  .hide {
+      display: none;
+  }
+  .form-cont input {
+      width: 49%;
+      background: transparent;
+  }
+  .form-cont textarea {
+      margin-top: 10px;
+      width: 100%;
+      background: transparent;
+  }
+  #contact {
+      padding-top: 100px;
+      margin-bottom: 50px;
+      background-image: url('/home/moringa/Desktop/Delani-studio/backgrounds/c_image.jpg');
+      background-size: cover;
+      background-position: cover;
+      width: 100%;
+      max-width: 100%;
+      margin-top: 10%;
+  }
+  .footer {
+      margin-top: 30px;
+  }
+  .form-cont {
+      text-align: center;
+      position: relative;
+      width: 700px;
+      max-width: 100%;
+      left: 50%;
+      transform: translate(-50%);
+  }
 
-#contact {
-  padding-top: 100px;
-  margin-bottom: 50px;
-  background-image: url('../IP3/assets/backgrounds/c_image.jpg');
-  background-size: cover;
-  background-position: cover;
-  width: 100%;
-  max-width: 100%;
-  margin-top: 10%;
-  text-align: center;
-}
 
-.hide, .hide2, .hide3 {
-  display: none;
-}
+  .con {
+      padding-bottom: 30px;
+  }
+  .what {
+      margin-bottom: 30px;
+  }
 
-#about {
-  margin-top: 50px;
-  margin-bottom: 50px;
-}
 
-.col-md-12 {
-  width: 100%;
-  color: #fff;
-  font-family: 'Akronim', cursive;
-  font-size: 1.1em;
-}
+  }
+  #portfolio img {
+      width: 100%;
+  }
+  .card {
+      margin: 10px 0;
+      position: relative;
+      overflow: hidden;
+  }
+  .card:hover img {
+      transform: scale(1.2);
+      transition: all 0.3s ease;
 
-.social img {
-  border-radius: 50%;
-  transition: 0.2s ease-out;
-}
 
-.social img:hover {
-  box-shadow: 0 0 20px rgb(0, 0, 0);
-  margin: -3px;
-  padding: 3px;
-  background: yellowgreen;
-}
+  }
+  .card-1 {
+      position: absolute;
+      width: 100%;
+      min-height: 100%;
+      background: rgba(0, 0, 0, 0.582);
+      cursor: pointer;
+      display: none;
+      transition: all 0.5s ease;
+  }
+  .ptag {
+      padding: 5% 0;
+      color: white;
+      background-color: rgba(0, 0, 0, 0.301);
+      padding: 50px 10px;
+      font-weight: 100%;
+      padding-top: 30px;
+      border: 4px solid whitesmoke;
+      font-size: 1.1em;
+      line-height: 90%;
+      margin: 20% 5%;
+      overflow: hidden;
+      letter-spacing: 2px;
 
-#portfolio img:hover {
-  width: 100%;
-}
-
-.ptag {
-  padding: 5% 0;
-  color: white;
-  background-color: rgba(0, 0, 0, 0.301);
-  padding: 50px 10px;
-  font-weight: 100%;
-  padding-top: 30px;
-  border: 4px whitesmoke;
-  font-size: 1.1em;
-  line-height: 90%;
-  margin: 20% 5%;
-  overflow: hidden;
-  letter-spacing: 2px;
-  font-family: 'Merienda', cursive;
-}
+  }
