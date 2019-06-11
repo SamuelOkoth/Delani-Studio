@@ -10,7 +10,7 @@
 
 #ngwes {
   margin:0;
-  background-image: url('/home/moringa/Desktop/Delani-studio/backgrounds/h_img.jpg');
+  background-image: url('../images/h_img.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   position: relative;
@@ -38,7 +38,7 @@
       font-weight: bolder;
   }
   #service {
-      background-image: url('/home/moringa/Desktop/Delani-studio/backgrounds/s_image.jpg');
+      background-image: url('../images/s_image.jpg');
       color: #fff;
       margin-bottom: 50px;
       background-position: center;
@@ -75,7 +75,7 @@
   #contact {
       padding-top: 100px;
       margin-bottom: 50px;
-      background-image: url('/home/moringa/Desktop/Delani-studio/backgrounds/c_image.jpg');
+      background-image: url('../images/c_image.jpg');
       background-size: cover;
       background-position: cover;
       width: 100%;
